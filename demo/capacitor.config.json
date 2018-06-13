@@ -1,0 +1,6 @@
+{
+  "appId": "co.fitcom.fingerprintauth.Demo",
+  "appName": "FingerPrintAuthDemo",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

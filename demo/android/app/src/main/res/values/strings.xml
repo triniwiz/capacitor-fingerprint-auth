@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FingerPrintAuthDemo</string>
+    <string name="title_activity_main">FingerPrintAuthDemo</string>
+    <string name="package_name">co.fitcom.fingerprintauth.Demo</string>
+    <string name="fileprovider_authority">co.fitcom.fingerprintauth.Demo.fileprovider</string>
+    <string name="custom_url_scheme">co.fitcom.fingerprintauth.Demo</string>
+</resources>

@@ -1,0 +1,37 @@
+PODS:
+  - Capacitor (1.0.0-alpha.38):
+    - CapacitorCordova (= 1.0.0-alpha.38)
+    - GCDWebServer (~> 3.0)
+  - CapacitorCordova (1.0.0-alpha.38)
+  - CapacitorFingerprintAuth (0.0.1):
+    - Capacitor
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - CapacitorFingerprintAuth (from `../../node_modules/capacitor-fingerprint-auth`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GCDWebServer
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorFingerprintAuth:
+    :path: "../../node_modules/capacitor-fingerprint-auth"
+
+SPEC CHECKSUMS:
+  Capacitor: 40a322fc7f631e0134739eafd25adac5e41fbb12
+  CapacitorCordova: c81099ca611d8b1d0c556712a2793bc474f1ab2b
+  CapacitorFingerprintAuth: a57eb1be73e3207c6053e70d5c60ce0b5a24f6ee
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+
+PODFILE CHECKSUM: 70f4669276891fc7ac401a921a566161566b8a76
+
+COCOAPODS: 1.5.3
