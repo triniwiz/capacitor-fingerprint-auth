@@ -1,8 +1,8 @@
 PODS:
-  - Capacitor (1.0.0-alpha.38):
-    - CapacitorCordova (= 1.0.0-alpha.38)
+  - Capacitor (1.0.0-alpha.39):
+    - CapacitorCordova (= 1.0.0-alpha.39)
     - GCDWebServer (~> 3.0)
-  - CapacitorCordova (1.0.0-alpha.38)
+  - CapacitorCordova (1.0.0-alpha.39)
   - CapacitorFingerprintAuth (0.0.1):
     - Capacitor
   - GCDWebServer (3.4.2):
@@ -27,8 +27,8 @@ EXTERNAL SOURCES:
     :path: "../../node_modules/capacitor-fingerprint-auth"
 
 SPEC CHECKSUMS:
-  Capacitor: 40a322fc7f631e0134739eafd25adac5e41fbb12
-  CapacitorCordova: c81099ca611d8b1d0c556712a2793bc474f1ab2b
+  Capacitor: 694bd651f06ece975ddf33d78d012a0d0fbece57
+  CapacitorCordova: 1ce96e3c67c9b90e850e563798255268c5a8984b
   CapacitorFingerprintAuth: a57eb1be73e3207c6053e70d5c60ce0b5a24f6ee
   GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
 
