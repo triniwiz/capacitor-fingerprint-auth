@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
     s.name = 'CapacitorFingerprintAuth'
-    s.version = '0.0.1'
+    s.version = '0.0.2'
     s.summary = 'FingerPrint Auth'
     s.license = 'MIT'
     s.homepage = 'https://github.com/triniwiz/capacitor-fingerprint-auth'
