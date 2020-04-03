@@ -6,8 +6,8 @@ declare global {
 
 export interface AvailableOptions {
   has: boolean;
-  faceId: boolean;
-  touchId: boolean;
+  face: boolean;
+  touch: boolean;
 }
 
 export interface IFingerPrintAuthPlugin {
